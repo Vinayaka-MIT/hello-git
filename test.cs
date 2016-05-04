@@ -16,7 +16,7 @@ namespace PppLearning.Sis.UI.Models
         public int SisClientId { get; set; }
         public int SchoolMappingId { get; set; }
         public int CrmId { get; set; }
-        public string DistrictName { get; set; }
+        public string DistrictName_Changed { get; set; }
 
     }
 }
