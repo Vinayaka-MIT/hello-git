@@ -1,1 +1,1 @@
-Happy coding 2016
+Happy coding
