@@ -1,4 +1,4 @@
-﻿## This is the property of Vinayak.
+﻿## This is the property of Vinayak G.
 using System;
 using System.Collections.Generic;
 using System.Linq;
