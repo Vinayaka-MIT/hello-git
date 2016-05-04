@@ -1,4 +1,4 @@
-﻿## This is the property of Vinayak G.
+#This is the property of Vinayak Gopal.
 using System;
 using System.Collections.Generic;
 using System.Linq;
